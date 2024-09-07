@@ -1,0 +1,3 @@
+
+hello kishan 
+open , write and read file
